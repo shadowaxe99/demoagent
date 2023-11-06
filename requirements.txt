@@ -1,0 +1,5 @@
+docker==5.0.0
+docker-pycreds==0.4.0
+gcc-python-plugin==0.17
+javac-parser==1.0.0
+py_compile==0.2.0
